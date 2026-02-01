@@ -1,0 +1,18 @@
+{
+  "jodek.save": "保存",
+  "jodek.cancel": "キャンセル",
+  "jodek.close": "閉じる",
+  "jodek.datapack_version": "データパック バージョン：",
+  "jodek.game_version": "ゲーム バージョン：",
+  "jodek.closbye": "作者",
+  "jodek.loaded": " がロードされました！",
+  "jodek.hover_for_more_info": "詳細はホバーしてください",
+  "jodek.advancement.title": "モブ データパック",
+  "jodek.advancement.desc": "バニラ対応データパックのクリエイター",
+  "jodek.advancement.mob.title": "モブ データパック",
+  "jodek.advancement.mob.desc": "モブの行動、ドロップ、ゲームプレイの相互作用に関連",
+  "jodek.advancement.utility.title": "ユーティリティ データパック",
+  "jodek.advancement.utility.desc": "汎用機能と生活の質の改善を提供",
+  "jodek.advancement.mining.title": "クラフト＆マイニング データパック",
+  "jodek.advancement.mining.desc": "クラフトレシピとマイニングを拡張または調整"
+}

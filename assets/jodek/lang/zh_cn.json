@@ -1,0 +1,18 @@
+{
+  "jodek.save": "保存",
+  "jodek.cancel": "取消",
+  "jodek.close": "关闭",
+  "jodek.datapack_version": "数据包版本：",
+  "jodek.game_version": "游戏版本：",
+  "jodek.closbye": "作者",
+  "jodek.loaded": " 已加载！",
+  "jodek.hover_for_more_info": "悬停查看更多信息",
+  "jodek.advancement.title": "生物数据包",
+  "jodek.advancement.desc": "原版友好数据包的创作者",
+  "jodek.advancement.mob.title": "生物数据包",
+  "jodek.advancement.mob.desc": "与生物行为、掉落物和游戏互动相关",
+  "jodek.advancement.utility.title": "实用数据包",
+  "jodek.advancement.utility.desc": "提供通用功能和生活质量改进",
+  "jodek.advancement.mining.title": "合成与挖矿数据包",
+  "jodek.advancement.mining.desc": "扩展或调整合成配方和挖矿"
+}

@@ -5,11 +5,11 @@
 
   "mobheads.title": "Mob Heads",
   "mobheads.description": "Mobs can drop their head when killed",
-  
+
   "mobheads.entity.charged_creeper": "Charged Creeper",
   "mobheads.entity.blue_axolotl": "Blue Axolotl",
   "mobheads.entity.special_panda": "Special Panda",
-  
+
   "mobheads.get_head.desc": "Click on a head and click \"Run Command\"",
   "mobheads.get_head.desc.close": "Close with escape",
 
@@ -28,7 +28,7 @@
   "mobheads.config.drop_rates.description.3": "which is used as the actual drop rate",
   "mobheads.config.drop_rate_multiplier": "Drop Rate Multiplier",
 
-  "mobheads.config.rarity": "Rarity (Head Name Color)",
+  "mobheads.config.rarity": "Rarity (Head Name Colour)",
   "mobheads.config.rarity.common": "0 = common = white",
   "mobheads.config.rarity.uncommon": "1 = uncommon = yellow",
   "mobheads.config.rarity.rare": "2 = rare = aqua",
@@ -52,7 +52,7 @@
 
   "mobheads.advancement.collection.collect_all": "Collect all",
   "mobheads.advancement.collection.collect_the": "Collect the",
-  
+
   "mobheads.advancement.collection.cold": "Cold",
   "mobheads.advancement.collection.temperate": "Temperate",
   "mobheads.advancement.collection.warm": "Warm",
@@ -98,7 +98,7 @@
 
   "mobheads.advancement.collection.golem": "Golem Heads",
   "mobheads.advancement.collection.golem.copper_golem.exposed": "Exposed",
-  "mobheads.advancement.collection.golem.copper_golem.oxidized": "Oxidized",
+  "mobheads.advancement.collection.golem.copper_golem.oxidized": "Oxidised",
   "mobheads.advancement.collection.golem.copper_golem.unaffected": "Unaffected",
   "mobheads.advancement.collection.golem.copper_golem.weathered": "Weathered",
 

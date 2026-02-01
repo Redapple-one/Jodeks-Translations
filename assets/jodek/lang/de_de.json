@@ -1,0 +1,18 @@
+{
+  "jodek.save": "Speichern",
+  "jodek.cancel": "Abbrechen",
+  "jodek.close": "Schließen",
+  "jodek.datapack_version": "Datapack Version: ",
+  "jodek.game_version": "Spielversion: ",
+  "jodek.closbye": "Von",
+  "jodek.loaded": " geladen! ",
+  "jodek.hover_for_more_info": "für mehr Infos hovern",
+  "jodek.advancement.title": "Mob Datapacks",
+  "jodek.advancement.desc": "Ersteller von Vanilla freundlichen Datapacks",
+  "jodek.advancement.mob.title": "Mob Datapacks",
+  "jodek.advancement.mob.desc": "Bezogen auf Mob Verhalten, Drops und Gameplay Interaktion",
+  "jodek.advancement.utility.title": "Utility Datapacks",
+  "jodek.advancement.utility.desc": "Bietet allgemeine Funktionen und Verbesserungen der Lebensqualität",
+  "jodek.advancement.mining.title": "Crafting & Mining Datapacks",
+  "jodek.advancement.mining.desc": "Erweitert oder passt Crafting Rezepte und Mining an"
+}
